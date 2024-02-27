@@ -1,0 +1,182 @@
+Name,AlphaISO,protectEvidence,protectC,protectCategory,manageEvidence,manageC,manageCategory,restoreEvidence,restoreC,restoreCategory,HDI,SR
+Afghanistan,AFG,48,1.55993,other,153,6.891109999999999,other,20,1.23,other,0.478,55
+Angola,AGO,77,48.08,need,224,29.39995,need,39,8.893332999999998,need,0.586,229
+Albania,ALB,24,1.22892,other,88,3.27792,other,9,11.036667000000001,need,0.796,157
+United Arab Emirates,ARE,46,1,other,91,1.36077,other,43,1,other,0.911,94
+Argentina,ARG,690,123.80030000000001,action,1561,121.847,action,352,80.71,action,0.842,375
+Armenia,ARM,16,1.29636,other,31,3.58291,other,9,2.763333,other,0.759,116
+Australia,AUS,3824,5.68037,action,7441,185.8959,action,2924,153.54999999999998,action,0.951,1871
+Austria,AUT,166,1.16397,other,522,8.171199999999999,other,119,8.75,action,0.916,227
+Azerbaijan,AZE,13,2.0014,other,71,4.06537,other,13,5.466667,other,0.745,102
+Burundi,BDI,4,1.7395399999999999,other,55,3.4957,other,2,1.803333,other,0.42599999999999993,218
+Belgium,BEL,280,1.1869,other,583,5.80653,other,198,4.693333,other,0.937,80
+Benin,BEN,56,2.0248999999999997,other,284,5.17503,other,25,1.81,other,0.525,135
+Burkina Faso,BFA,80,1.16387,other,333,16.67999,action,33,1.15,other,0.44900000000000007,40
+Bangladesh,BGD,467,3.52379,action,993,45.7878,action,300,2.24,other,0.661,224
+Bulgaria,BGR,79,1.31258,other,261,14.26717,action,49,19.093329999999998,need,0.795,146
+Bahamas,BHS,109,1.25,other,21,1.1440000000000001,other,101,1.13,other,0.812,143
+Bosnia and Herzegovina,BIH,71,1.04116,other,153,3.8921699999999997,other,45,12.68333,need,0.78,133
+Belarus,BLR,28,8.26486,need,72,18.343600000000002,need,12,55.53,need,0.808,36
+Belize,BLZ,98,6.2006000000000006,action,62,1.53822,other,62,6.726667,other,0.683,212
+Bolivia,BOL,243,95.01839,action,456,11.74569,action,41,62.49333,need,0.692,452
+Brazil,BRA,4858,1118.6911,action,9915,346.06,action,2069,1840.75,action,0.754,2229
+Brunei Darussalam,BRN,43,2.02,other,51,1.28016,other,24,1.42,other,0.829,359
+Bhutan,BTN,80,1.25,other,130,4.29453,other,14,3.31,other,0.666,123
+Botswana,BWA,150,1.07,other,235,3.75194,other,117,1.29,other,0.693,35
+Central African Republic,CAF,203,17.87,action,474,22.167849999999998,action,101,11.40667,action,0.404,101
+Canada,CAN,3902,64.703,action,8169,218.2095,action,2277,40.78333,action,0.936,195
+Switzerland,CHE,508,1.04817,other,1152,4.42654,other,348,4.359999999999999,other,0.962,171
+Chile,CHL,464,48.32595,action,961,17.10198,action,215,27.036669999999997,action,0.855,283
+China,CHN,7072,313.9215,action,17039,814.521,action,6241,1099.51,action,0.768,1419
+Cote d'Ivoire,CIV,43,45.807719999999996,need,138,17.62099,need,14,157.08,need,0.55,333
+Cameroon,CMR,308,22.97234,action,594,24.428790000000003,action,103,48.49667,action,0.576,1250
+Democratic Republic of the Congo (DRC),COD,311,330.98009,action,561,40.78282,action,176,223.74,action,0.479,746
+Republic of Congo (ROC),COG,8,14.522400000000001,need,20,11.186679999999999,need,3,75.02333,need,0.571,235
+Colombia,COL,666,89,action,1424,29.0189,action,250,395.49670000000003,action,0.752,1711
+Comoros,COM,5,1.04,other,12,1.0400051,other,2,1,other,0.558,149
+Cape Verde,CPV,2,1,other,2,1.0100018,other,0,2.576667,other,0.662,129
+Costa Rica,CRI,420,6.9399999999999995,action,608,8.408619999999999,other,147,29.86,action,0.809,655
+Cuba,CUB,120,8.706589999999998,action,238,10.7767,need,76,76.57667,action,0.764,420
+Cyprus,CYP,70,1.18523,other,108,1.41045,other,54,1,other,0.896,108
+Czech Republic,CZE,221,1.43759,other,362,11.80347,action,146,8.376667,action,0.889,127
+Germany,DEU,1271,1.7024,other,3467,62.6871,action,891,46.129999999999995,action,0.942,256
+Djibouti,DJI,3,1.03,other,10,1.01,other,0,1.05,other,0.509,129
+Denmark (except Greenland),DNK,199,1.41864,other,436,10.23995,action,142,5.223333,other,0.948,91
+Dominican Republic,DOM,48,7.57404,need,52,5.00988,other,34,37.1,need,0.767,304
+Algeria,DZA,103,2.31402,action,308,16.686,action,104,8.783332999999999,action,0.745,186
+Ecuador,ECU,362,20.80319,action,564,14.35356,action,119,86.37667,action,0.74,2692
+Egypt,EGY,162,1.04884,other,877,18.13488,action,171,1.02,other,0.731,209
+Eritrea,ERI,9,1.20788,other,32,1.9797799999999999,other,4,1,other,0.492,161
+Western Sahara,ESH,17,1,other,49,1,other,15,1,other,0.46399999999999997,85
+Spain,ESP,1516,3.37167,action,4431,70.2185,action,1108,80.27333,action,0.905,854
+Estonia,EST,399,1.07692,other,1134,4.11355,other,348,14.71,action,0.89,56
+Ethiopia,ETH,299,13.11528,action,1758,44.123000000000005,action,129,74.84667,action,0.498,237
+Finland,FIN,582,9.376199999999999,action,1034,18.161920000000002,action,338,36.126667,action,0.94,68
+Fiji,FJI,93,1.07,other,98,2.218,other,68,1.08,other,0.73,357
+Falkland Islands,FLK,16,1.11,other,4,1,other,12,1.56,other,0.874,30
+France (except French Guiana),FRA,1410,4.1107700000000005,action,3179,94.03009999999999,action,1031,123.2067,action,0.903,466
+Faroe Islands,FRO,2,1,other,2,1,other,0,1.01,other,0.95,35
+Gabon,GAB,77,12.118549999999999,need,94,19.638015,need,45,13.723329999999999,need,0.706,610
+United Kingdom,GBR,1639,4.52525,action,3119,41.6078,action,1222,106.8233,action,0.929,200
+Georgia,GEO,236,1.36513,other,462,6.69774,other,158,9.34,action,0.802,132
+Ghana,GHA,268,18.10165,action,1021,23.22148,action,117,73.83667,action,0.632,292
+Guinea,GIN,35,8.794260000000001,need,131,10.58082,need,21,15.29667,need,0.4650000000000001,422
+Guadeloupe,GLP,8,1.00773,other,6,1.02,other,8,1,other,0.822,121
+"Gambia, The",GMB,10,1.020031,other,30,2.42,other,4,1.06,other,0.5,124
+Guinea-Bissau,GNB,12,2.39,need,14,2.8387200000000004,other,8,2.13,other,0.483,125
+Equatorial Guinea,GNQ,43,3.4,need,77,7.95000023,other,33,1.25,other,0.596,297
+Greece,GRC,599,1.6166200000000002,other,1189,13.229610000000001,action,518,43.03333,action,0.887,601
+Greenland (Denmark),GRL,20,1,other,24,1,other,17,1,other,0.786,31
+Guatemala,GTM,204,33.4451,action,326,14.03683,action,34,56.58667,need,0.627,698
+French Guiana (France),GUF,10,3.46,need,11,1.6099999999999999,other,8,1.03,other,0.793,130
+Guyana,GUY,74,5.47599,need,84,4.96608,other,37,7.9066670000000006,need,0.714,202
+Honduras,HND,128,20.920910000000003,action,203,7.75847,other,48,59.620000000000005,need,0.621,480
+Croatia,HRV,200,1.20174,other,428,6.73954,other,121,12.66,action,0.858,244
+Haiti,HTI,23,1.93065,other,67,3.97926,other,10,22.48667,need,0.535,450
+Hungary,HUN,335,1.16,other,670,16.641,action,249,8.906666999999999,action,0.846,143
+Indonesia,IDN,3250,1152.4784300000001,action,5338,334.2183,action,1523,502.42330000000004,action,0.705,2282
+India,IND,3944,50.8615,action,13282,480.421,action,1967,395.64669999999995,action,0.633,1355
+Ireland,IRL,474,1.25682,other,733,14.03418,action,416,72.12,action,0.945,92
+Iran,IRN,694,2.3171,action,3064,40.251,action,429,7.9633329999999996,action,0.774,191
+Iraq,IRQ,45,34.42597,need,337,11.14394,action,42,4.2,other,0.686,98
+Iceland,ISL,61,2.86483,need,77,1.056,other,50,10.43,action,0.959,41
+Israel,ISR,190,1.10273,other,533,2.1113999999999997,other,178,1.266667,other,0.919,247
+Italy,ITA,1842,1.75229,other,4409,38.0963,action,1286,54.53,action,0.895,558
+Jamaica,JAM,81,2.37,need,91,2.26367,other,49,6.36,other,0.709,359
+Jordan,JOR,87,1.04869,other,190,1.75349,other,75,1,other,0.72,131
+Japan,JPN,1079,1.78747,other,2077,32.482380000000006,action,677,34.34333,action,0.925,612
+Kazakhstan,KAZ,41,6.42983,need,217,89.1027,need,26,6.069999999999999,other,0.811,99
+Kenya,KEN,602,18.894660000000002,action,1837,15.537799999999999,action,334,14.28667,action,0.575,697
+Kyrgyzstan,KGZ,18,1.63872,other,71,4.14726,other,5,1.51,other,0.692,61
+Cambodia,KHM,178,55.478170000000006,action,323,17.11249,action,58,53.126670000000004,action,0.593,339
+Republic of Korea (South Korea),KOR,318,1.08579,other,666,7.2871,other,224,3.796667,other,0.925,175
+Kuwait,KWT,16,1,other,39,1.032,other,16,1,other,0.831,72
+Laos,LAO,138,56.86,action,236,27.08919,need,32,46.64667,need,0.607,292
+Lebanon,LBN,21,1.16398,other,111,1.5064199999999999,other,17,1.806667,other,0.706,193
+Liberia,LBR,36,21.61824,need,49,4.900055,other,19,6.473333,other,0.481,294
+Libya,LBY,22,1.0833599999999999,other,54,4.389950000000001,other,13,1.176667,other,0.718,92
+Sri Lanka,LKA,229,3.70038,action,509,10.21161,action,134,4.233333,other,0.782,820
+Lesotho,LSO,17,1.03,other,37,1.7256,other,13,1.05,other,0.514,20
+Lithuania,LTU,110,2.9025,action,272,8.73782,other,48,13.103333,need,0.875,44
+Luxembourg,LUX,17,1.00464,other,26,1.18864,other,11,1,other,0.93,17
+Latvia,LVA,82,1.13973,other,255,6.15306,other,33,12.853333000000001,need,0.863,47
+Morocco,MAR,208,2.3299000000000003,action,575,23.6124,action,153,5.7133329999999996,other,0.683,278
+Moldova,MDA,18,1.20621,other,45,5.84075,other,9,3.32,other,0.767,36
+Madagascar,MDG,340,71.81,action,397,11.0276,action,142,20.28333,action,0.501,3747
+Mexico,MEX,2291,69.30889,action,4282,82.20570000000001,action,1041,455.2767,action,0.758,2437
+Macedonia (The Former Yugoslav Republic of Macedonia),MKD,27,1.20161,other,94,2.848,other,16,7.1166670000000005,need,0.77,147
+Mali,MLI,16,2.9603,need,131,23.608900000000002,need,8,1.15,other,0.42799999999999994,72
+Myanmar,MMR,169,86.03058999999999,action,250,66.8638,action,64,233.2633,action,0.585,445
+Montenegro,MNE,18,1.1400000000000001,other,47,2.12043,other,8,5.93,other,0.832,165
+Mongolia,MNG,119,20.71334,action,256,8.13218,other,104,27.893333,action,0.739,43
+Mozambique,MOZ,132,58.19,action,287,18.955389999999998,action,79,3.8200000000000003,other,0.44599999999999995,545
+Mauritania,MRT,29,1.10077,other,30,3.48726,other,27,1.09,other,0.556,131
+Martinique,MTQ,13,1,other,14,1,other,10,1,other,0.848,107
+Mauritius,MUS,16,1,other,32,1.01,other,12,1,other,0.802,292
+Malawi,MWI,85,4.33,need,425,11.66789,action,33,2.456667,other,0.512,152
+Malaysia,MYS,940,247.44288999999998,action,1336,26.96322,action,540,38.66,action,0.803,2090
+Namibia,NAM,143,1.04,other,241,3.77899,other,87,1.03,other,0.615,153
+New Caledonia,NCL,6,1.05,other,13,1.004,other,4,1,other,0.789,1002
+Niger,NER,15,1.11433,other,63,19.24271,need,4,1.03,other,0.4,43
+Nigeria,NGA,227,19.42259,action,1431,81.4847,action,139,114.57000000000001,action,0.535,461
+Nicaragua,NIC,126,33.1877,action,207,5.90389,other,69,78.33,action,0.667,303
+Netherlands,NLD,418,1.04696,other,766,7.99001,other,329,10.716667000000001,action,0.941,83
+Norway,NOR,822,3.6156800000000002,action,1434,7.60212,other,342,3.916667,other,0.961,135
+Nepal,NPL,758,2.20628,other,1269,16.50066,action,156,19.20667,action,0.602,131
+New Zealand,NZL,858,1.15628,other,1493,16.75753,action,668,29.42333,action,0.937,277
+Oman,OMN,23,1,other,99,1.67423,other,29,1,other,0.816,147
+Pakistan,PAK,309,4.678240000000001,action,2081,49.029939999999996,action,191,3.423333,other,0.544,233
+Panama,PAN,217,11.129999999999999,action,282,3.24967,other,102,49.87667,action,0.805,561
+Peru,PER,388,67.12405,action,683,11.29622,action,109,39.166669999999996,action,0.762,985
+Philippines,PHL,368,25.146359999999998,action,509,25.637340000000002,action,223,154.94,action,0.699,1624
+Papua New Guinea,PNG,151,56.85849,action,237,22.49355,need,60,24.253333,action,0.558,1133
+Poland,POL,620,2.6968,action,1332,46.0497,action,378,40.766670000000005,action,0.876,113
+Puerto Rico,PRI,38,1.03029,other,60,1.25438,other,13,1.56,other,0.845,197
+Democratic People's Republic of Korea (North Korea),PRK,9,1.52645,other,27,9.41605,need,9,17.09,need,0.733,120
+Portugal,PRT,413,1.20382,other,937,11.42692,action,302,32.09667,action,0.866,540
+Paraguay,PRY,72,69.14379,need,145,28.27228,need,17,112.16,need,0.717,83
+French Polynesia,PYF,41,1,other,24,1,other,36,1,other,0.737,199
+Qatar,QAT,13,1,other,34,1.049,other,10,1,other,0.855,71
+Reunion,REU,13,1.01,other,20,1.04,other,12,1.06,other,0.75,158
+Romania,ROU,292,1.82392,other,811,30.2754,action,212,26.56667,action,0.821,170
+Russia,RUS,775,56.0635,action,1801,484.327,action,455,388.9433,action,0.822,316
+Rwanda,RWA,49,2.37753,need,196,2.61716,other,26,1.6,other,0.534,195
+Saudi Arabia,SAU,79,1,other,209,4.697760000000001,other,59,1,other,0.875,171
+Sudan,SDN,42,1.95755,other,310,37.2528,action,19,3.91,other,0.508,172
+Senegal,SEN,99,1.8295599999999999,other,243,11.68698,need,52,1.02,other,0.511,181
+Solomon Islands,SLB,22,3.64,need,29,11.49001,need,18,1.066667,other,0.564,303
+Sierra Leone,SLE,4,9.861170000000001,need,14,4.34036,other,1,2.843333,other,0.477,295
+El Salvador,SLV,37,2.5700000000000003,need,59,6.25841,other,14,11.59333,need,0.675,177
+Somalia,SOM,18,1.19964,other,52,5.6128599999999995,other,15,5.66,other,0.361,232
+Serbia,SRB,79,1.26852,other,314,12.12667,action,44,16.490000000000002,need,0.802,121
+South Sudan,SSD,280,3.45272,action,551,3.37012,other,235,1.073333,other,0.385,68
+Sao Tome and Principe,STP,7,1,other,3,1,other,7,1,other,0.618,141
+Suriname,SUR,24,5.17,need,33,5.38415,other,7,2.7033329999999998,other,0.73,129
+Slovakia,SVK,172,1.21549,other,454,6.10337,other,84,5.146667,other,0.848,134
+Slovenia,SVN,97,1.0456,other,228,2.33154,other,43,3.9866669999999997,other,0.918,211
+Sweden,SWE,943,2.51257,action,1606,14.70852,action,579,8.466667,action,0.947,117
+Swaziland,SWZ,16,6.18,need,55,1.8900000000000001,other,9,1.1,other,0.597,47
+Syria,SYR,59,1.6055899999999999,other,360,11.29228,action,34,1.8900000000000001,other,0.577,174
+Chad,TCD,22,1.45789,other,70,15.23478,need,10,1.35,other,0.394,55
+Togo,TGO,19,1.94461,other,75,3.65212,other,10,11.620000000000001,need,0.539,129
+Thailand,THA,751,50.14567,action,1621,69.887199999999993,action,362,216.88,action,0.8,802
+Tajikistan,TJK,12,1.23225,other,65,2.92636,other,5,1.11,other,0.685,59
+Turkmenistan,TKM,8,1.6615600000000001,other,34,2.04828,other,4,1.12,other,0.745,60
+Timor-Leste,TLS,48,1.71,other,75,1.57,other,28,7.526667,need,0.607,59
+Trinidad and Tobago,TTO,21,1.7239499999999999,other,31,1.25016,other,13,1.02,other,0.81,164
+Tunisia,TUN,122,1.2448,other,409,7.855700000000001,other,115,2.063333,other,0.731,129
+Turkey,TUR,378,9.46562,action,1687,75.5956,action,223,120.6967,action,0.838,451
+Tanzania,TZA,686,42.82777,action,1148,42.5321,action,309,50.019999999999996,action,0.549,1591
+Uganda,UGA,362,25.08773,action,762,33.55711,action,100,19.876667,action,0.525,313
+Ukraine,UKR,164,6.20263,action,431,82.1308,action,71,55.23,action,0.773,147
+Uruguay,URY,82,6.6415999999999995,need,173,18.436,need,44,1.29,other,0.809,137
+United States (except Alaska),USA,20777,82.6022,action,42048,529.7,action,14979,317.5,action,0.921,1960
+Uzbekistan,UZB,21,3.18272,need,213,10.97216,need,16,1.48,other,0.727,76
+Venezuela,VEN,169,37.50557,action,337,15.96062,action,78,190.2,action,0.691,868
+Vietnam,VNM,640,57.28332,action,1664,56.779689999999995,action,430,115.5433,action,0.703,933
+Vanuatu,VUT,1,1,other,4,1,other,1,3.09,other,0.607,158
+Samoa,WSM,1,1,other,4,1.07,other,0,1,other,0.707,116
+Yemen,YEM,23,1.03456,other,62,2.3689400000000003,other,16,1,other,0.45500000000000007,337
+South Africa,ZAF,458,70.00766,action,892,34.05216,action,368,8.176667,action,0.713,905
+Zambia,ZMB,64,34.68,need,282,27.66867,action,22,7.093333,other,0.565,137
+Zimbabwe,ZWE,224,6.3100000000000005,action,589,18.123,action,128,1.8033329999999999,other,0.593,136
