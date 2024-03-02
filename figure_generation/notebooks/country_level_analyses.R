@@ -67,10 +67,11 @@ sr_color = "#377eb8"
 dev_color = "#e66101"
 
 ### Color for boundary lines in map
-country_boundary_color <- "gray20" 
+country_boundary_color <- "gray98"  
 
 ### Use biscale to generate color ramp
 custom_pal <- bi_pal(pal="BlueYl",dim=4,flip_axes=TRUE,rotate_pal=FALSE,preview=FALSE)
+custom_pal[c(9:12)] <- custom_pal[c(5:8)]
 custom_pal[c(1:8)] <- custom_pal[1]
 
 ###*****************************
