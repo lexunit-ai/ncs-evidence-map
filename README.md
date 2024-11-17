@@ -1,5 +1,6 @@
 # ncs-evidence-map
-Code base to generate evidence map of natural climate solutions related scientific papers
+
+Code base to generate an evidence map of natural climate solutions related scientific papers and the evidence of co-impacts to people and nature. This repository accompanies [Chang et al. *Nature Sustainability* 2024](https://doi.org/10.1038/s41893-024-01454-z).
 
 ## Replication dataset
 
